@@ -26,6 +26,30 @@ Docker
 
 Docker Compose
 
+### Dashboard Screenshot
+![Dashboard](Dashboard.png)
+
+### First Ticket Screenshot
+![Pepper First Ticket](Pepper%20first%20ticket.png)
+
+### Closed Ticket Screenshot
+![Closed Ticket](Peppermint%20closed%20a%20ticket.png)
+
+### Ticket Priority Screenshot
+![Ticket Priority](Ticket%20priority.png)
+
+### Clients Screenshot
+![Clients](pepper%20clients.png)
+
+### Logs Screenshot
+![Logs](pepper%20logs.png)
+
+### Users Screenshot
+![Users](pepper%20users.png)
+
+### Additional Screenshot
+![Pepper1](pepper1.png)
+
 Installation & Setup
 
 Step 1: Clone the Repository
